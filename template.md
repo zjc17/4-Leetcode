@@ -7,7 +7,7 @@
 
 
 
-## solution
+## Solution
 ### My solution
 ```java
 
