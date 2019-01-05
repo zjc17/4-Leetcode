@@ -10,13 +10,13 @@
 
 
 ## Solution
-### Solution[考点标签]
+### Solution [考点标签]
 ```java
 
 ```
 #### 复杂度分析
 
-### Solution[考点标签]
+### Solution [考点标签]
 ```java
 
 ```
