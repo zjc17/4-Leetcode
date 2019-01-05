@@ -10,5 +10,5 @@
 | 967  | [连续差相同的数字<br>Numbers With Same Consecutive Differences](srcs/967.md) |           【递归】           |
 | 968  |       [监控二叉树<br>Binary Tree Cameras](srcs/968.md)       |     【DFS】 【动态规划】     |
 |      |                       [<br>](srcs/.md)                       |                              |
-|      |                     [[<br>](srcs/.md)]()                     |                              |
+|      |                       [<br>](srcs/.md)                       |                              |
 
