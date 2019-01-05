@@ -1,4 +1,6 @@
-## XXX. 题目 - [考点标签]
+## XXX. 题目 - Problem
+
+> [考点标签]
 
 ### [Problem Link]()
 	题目描述
