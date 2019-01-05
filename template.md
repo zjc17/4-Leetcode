@@ -10,13 +10,13 @@
 
 
 ## Solution
-### My solution
+### Solution
 ```java
 
 ```
 #### 复杂度分析
 
-### Other Solution
+### Solution
 ```java
 
 ```
