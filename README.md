@@ -3,6 +3,7 @@
 | 题号 |                             题目                             |             考点             |
 | :--: | :----------------------------------------------------------: | :--------------------------: |
 | 001  |              [两数和<br>Two Sums](srcs/001.md)               |        【Hash Table】        |
+| 007  |         [整数反转<br/>Reverse Integer](srcs/007.md)          |      【栈】 【纯数学】       |
 | 062  |            [不同路径<br>Unique path](srcs/062.md)            | 【简单动态规划 】 【纯数学】 |
 | 101  |         [对称二叉树<br>Symmetric Tree](srcs/101.md)          | 【Level Tranversal of Tree】 |
 | 881  |        [救生艇<br>Boats To Save People](srcs/881.md)         |    【双指针】 【桶排序】     |
