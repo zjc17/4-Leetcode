@@ -19,16 +19,19 @@ public class _321 {
     int[] coins = new int[length];
     coins[0] = 1;
     for (int i = 1, max_len = length - 1; i < max_len; i++) {
-      coins[i] = nums[i];
+      coins[i] = nums[i - 1];
     }
     coins[length - 1] = 1;
     int[][] dp = new int[length][length];
     /* Initialized */
-    for (int i = 2; i < length; i++) {
-      for (int j = 0; j + i < length; j++) {
-        for (int k = j + 1; k < j + i; k++) {
-          dp[j][j + 1] = Math.max(dp[j][j + i],
-              dp[j][k] + dp[k][j + i] + coins[j] * coins[k] * coins[j + i]);
+    int l; // left
+    int r; // right
+    for (int len = 2; len < length; len++) {
+      for (l = 0; l + len < length; l++) {
+        r = l + len;
+        for (int k = l + 1; k < r; k++) {
+          dp[l][r] = Math.max(dp[l][r],
+              dp[l][k] + coins[l] * coins[k] * coins[r] + dp[k][r]);
         }
       }
     }
