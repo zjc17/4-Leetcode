@@ -1,4 +1,4 @@
-public class _321 {
+public class Solution_312 {
 
   public int maxCoins(int[] nums) {
     if (nums.length == 0) {
