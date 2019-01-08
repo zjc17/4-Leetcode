@@ -12,6 +12,7 @@
 | 145  | [二叉树的后序遍历<br>Binary Tree Postorder Traversal](doc/145.md) | 【后序遍历-递归】 【后序遍历-迭代】<br>【后序遍历-先序的变异】 |
 | 312  |            [戳气球<br/>Burst Balloon](doc/312.md)            |                       【DP】 【分治】                        |
 | 881  |         [救生艇<br>Boats To Save People](doc/881.md)         |                    【双指针】 【桶排序】                     |
+| 958  | [二叉树的完全性检验<br/>Check Completeness of a Binary Tree](doc/958.md) |           【层级遍历 - 迭代】 【层级遍历 - 递归】            |
 | 965  |      [单值二叉树<br>Univalued Binary Tree](doc/965.md)       |                    【Tranversal of Tree】                    |
 | 967  | [连续差相同的数字<br>Numbers With Same Consecutive Differences](doc/967.md) |                           【递归】                           |
 | 968  |       [监控二叉树<br>Binary Tree Cameras](doc/968.md)        |                     【DFS】 【动态规划】                     |
