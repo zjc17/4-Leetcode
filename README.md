@@ -17,5 +17,7 @@
 | 967  | [连续差相同的数字<br>Numbers With Same Consecutive Differences](doc/967.md) |                           【递归】                           |
 | 968  |       [监控二叉树<br>Binary Tree Cameras](doc/968.md)        |                     【DFS】 【动态规划】                     |
 | 970  |          [强整数<br>Powerful Integers](doc/970.md)           |                                                              |
-|      |                       [<br>](doc/.md)                        |                                                              |
+| 971  | [翻转二叉树以匹配先序遍历<br>Flip Binary Tree To Match Preorder Traversal](doc/.md) |                         【先序遍历】                         |
+|      |                                                              |                                                              |
+|      |                                                              |                                                              |
 
