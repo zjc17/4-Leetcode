@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="6ms">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 11 ms, 在Pancake Sorting的Java提交中击败了97.87% 的用户">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_321.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_312.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_803.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_803.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,14 +21,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution958.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution969.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="8">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="class#TreeNode#0;class#Solution_958#0" />
-                <element signature="e#282#303#1" />
               </folding>
             </state>
           </provider>
@@ -56,10 +51,11 @@
         <option value="$PROJECT_DIR$/src/_321.java" />
         <option value="$PROJECT_DIR$/src/Solution_958.java" />
         <option value="$PROJECT_DIR$/src/Solution958.java" />
+        <option value="$PROJECT_DIR$/src/Solution969.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="293" />
     <option name="y" value="128" />
     <option name="width" value="1400" />
@@ -86,14 +82,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546917193905" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547131947163" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -124,6 +120,7 @@
       <workItem from="1546837859986" duration="6049000" />
       <workItem from="1546855291257" duration="10483000" />
       <workItem from="1546916277621" duration="924000" />
+      <workItem from="1547131601091" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="TLE">
       <created>1546861760794</created>
@@ -146,23 +143,29 @@
       <option name="project" value="LOCAL" />
       <updated>1546917187176</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="执行用时: 11 ms, 在Pancake Sorting的Java提交中击败了97.87% 的用户">
+      <created>1547131913929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547131913929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17456000" />
+    <option name="totallyTimeSpent" value="17816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="293" y="128" width="1400" height="957" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981884" visible="true" weight="0.11865672" />
-      <window_info id="Structure" order="1" sideWeight="0.5018116" side_tool="true" visible="true" weight="0.11865672" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49690402" visible="true" weight="0.0858209" />
+      <window_info id="Structure" order="1" sideWeight="0.503096" side_tool="true" visible="true" weight="0.0858209" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32928312" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -176,6 +179,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -194,7 +198,8 @@
     <MESSAGE value="TLE" />
     <MESSAGE value="DP, 分治" />
     <MESSAGE value="6ms" />
-    <option name="LAST_COMMIT_MESSAGE" value="6ms" />
+    <MESSAGE value="执行用时: 11 ms, 在Pancake Sorting的Java提交中击败了97.87% 的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时: 11 ms, 在Pancake Sorting的Java提交中击败了97.87% 的用户" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solution_803.java">
@@ -240,12 +245,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution958.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="312">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#TreeNode#0;class#Solution_958#0" />
-            <element signature="e#282#303#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution969.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
