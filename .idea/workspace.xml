@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution547.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution547.java" afterDir="false" />
-    </list>
+    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution547.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="420">
+              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -54,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="299" />
     <option name="y" value="81" />
     <option name="width" value="1400" />
@@ -88,7 +85,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547299437962" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547299454743" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -127,7 +124,7 @@
       <workItem from="1547134547198" duration="3000" />
       <workItem from="1547134705970" duration="76000" />
       <workItem from="1547297614166" duration="1022000" />
-      <workItem from="1547298646476" duration="752000" />
+      <workItem from="1547298646476" duration="881000" />
     </task>
     <task id="LOCAL-00001" summary="TLE">
       <created>1546861760794</created>
@@ -175,11 +172,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19694000" />
+    <option name="totallyTimeSpent" value="19823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="299" y="81" width="1400" height="957" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.490887" visible="true" weight="0.12462687" />
       <window_info id="Structure" order="1" sideWeight="0.509113" side_tool="true" visible="true" weight="0.12462687" />
@@ -289,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution547.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="420">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
