@@ -1,5 +1,6 @@
 class Solution547 {
   private int[] stu;
+  private int unions = 0;
 
   public int findCircleNum(int[][] M) {
     int number = M.length;
@@ -8,26 +9,16 @@ class Solution547 {
     for (int i = 0; i < number; i++) {
       stu[i] = i;
     }
+
     for (int i = 0; i < number; i++) {
-      for (int j = 0; j < number; j++) {
+      for (int j = i + 1; j < number; j++) { /* 如果有M[i][j] = 1，则有M[j][i] = 1。 */
         if (M[i][j] == 1) {
           union(i, j);
         }
       }
     }
-    boolean[] result = new boolean[number];
-    for (int i = 0; i < number; i++) {
-      result[root(i)] = true;
-    }
 
-    int count = 0;
-    for (int i = 0; i < number; i++) {
-      if (result[i]) {
-        count++;
-      }
-    }
-
-    return count;
+    return number - unions;
   }
 
   private int root(int i) {
@@ -40,10 +31,6 @@ class Solution547 {
     }
   }
 
-  private boolean connected(int p, int q) {
-    return root(p) == root(q);
-  }
-
   private void union(int p, int q) {
     int i = root(p);
     int j = root(q);
@@ -51,5 +38,6 @@ class Solution547 {
       return;
     }
     stu[i] = j;
+    unions++;
   }
 }
