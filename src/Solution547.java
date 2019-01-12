@@ -17,7 +17,6 @@ class Solution547 {
         }
       }
     }
-
     return number - unions;
   }
 
@@ -26,7 +25,7 @@ class Solution547 {
       if (i == stu[i]) {
         return i;
       }
-      stu[i] = stu[stu[i]];
+      stu[i] = stu[stu[i]]; /* path improvement */
       i = stu[i];
     }
   }
