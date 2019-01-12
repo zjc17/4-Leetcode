@@ -10,7 +10,8 @@
 | 102  | [二叉树的层次遍历<br>Binary Tree Level Order Traversal](doc/102.md) |             【层次遍历-迭代】 【层次遍历-递归】              |
 | 124  | [二叉树中的最大路径和<br>Binary Tree Maximum Path Sum](doc/124.md) |                  【后序遍历】 【动态规划】                   |
 | 145  | [二叉树的后序遍历<br>Binary Tree Postorder Traversal](doc/145.md) | 【后序遍历-递归】 【后序遍历-迭代】<br>【后序遍历-先序的变异】 |
-| 312  |            [戳气球<br/>Burst Balloon](doc/312.md)            |                       【DP】 【分治】                        |
+| 312  |            [戳气球<br>Burst Balloon](doc/312.md)             |                       【DP】 【分治】                        |
+| 547  |            [朋友圈<br>Friend Circles](doc/547.md)            |                      【并查集】 【DFS】                      |
 | 881  |         [救生艇<br>Boats To Save People](doc/881.md)         |                    【双指针】 【桶排序】                     |
 | 958  | [二叉树的完全性检验<br/>Check Completeness of a Binary Tree](doc/958.md) |           【层级遍历 - 迭代】 【层级遍历 - 递归】            |
 | 965  |      [单值二叉树<br>Univalued Binary Tree](doc/965.md)       |                    【Tranversal of Tree】                    |
@@ -19,6 +20,6 @@
 | 969  |          [煎饼排序<br/>Pancake Sorting](doc/969.md)          |          【双指针(BF)】 **【双向链表（未完成）】**           |
 | 970  |          [强整数<br>Powerful Integers](doc/970.md)           |                                                              |
 | 971  | [翻转二叉树以匹配先序遍历<br>Flip Binary Tree To Match Preorder Traversal](doc/971.md) |                         【先序遍历】                         |
-|      |                       [<br/>](doc/.md)                       |                                                              |
-|      |                       [<br/>](doc/.md)                       |                                                              |
+|      |                       [<br>](doc/.md)                        |                                                              |
+|      |                       [<br>](doc/.md)                        |                                                              |
 
