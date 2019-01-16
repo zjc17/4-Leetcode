@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户">
-      <change afterPath="$PROJECT_DIR$/src/Solution973.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution974.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution976.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution976.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution974.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="378">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -63,8 +49,8 @@
         <option value="$PROJECT_DIR$/src/Solution969.java" />
         <option value="$PROJECT_DIR$/src/Solution547.java" />
         <option value="$PROJECT_DIR$/src/Solution973.java" />
-        <option value="$PROJECT_DIR$/src/Solution976.java" />
         <option value="$PROJECT_DIR$/src/Solution974.java" />
+        <option value="$PROJECT_DIR$/src/Solution976.java" />
       </list>
     </option>
   </component>
@@ -146,6 +132,7 @@
       <workItem from="1547297614166" duration="1022000" />
       <workItem from="1547298646476" duration="881000" />
       <workItem from="1547346566519" duration="2295000" />
+      <workItem from="1547568363914" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="TLE">
       <created>1546861760794</created>
@@ -193,13 +180,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22118000" />
+    <option name="totallyTimeSpent" value="23381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="299" y="81" width="1400" height="957" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48967195" visible="true" weight="0.1261194" />
-      <window_info id="Structure" order="1" sideWeight="0.51032805" side_tool="true" visible="true" weight="0.1261194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48845688" visible="true" weight="0.12761194" />
+      <window_info id="Structure" order="1" sideWeight="0.51154315" side_tool="true" visible="true" weight="0.12761194" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -325,17 +312,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution976.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution974.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution976.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
