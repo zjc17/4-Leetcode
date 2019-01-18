@@ -13,7 +13,8 @@
 | 312  |            [戳气球<br>Burst Balloon](doc/312.md)             |                       【DP】 【分治】                        |
 | 547  |            [朋友圈<br>Friend Circles](doc/547.md)            |                      【并查集】 【DFS】                      |
 | 881  |         [救生艇<br>Boats To Save People](doc/881.md)         |                    【双指针】 【桶排序】                     |
-| 958  | [二叉树的完全性检验<br/>Check Completeness of a Binary Tree](doc/958.md) |           【层级遍历 - 迭代】 【层级遍历 - 递归】            |
+| 923  |  [三数之和的多种可能<br>3Sum With Multiplicity](doc/923.md)  |                    【双指针】 【桶排序】                     |
+| 958  | [二叉树的完全性检验<br>Check Completeness of a Binary Tree](doc/958.md) |           【层级遍历 - 迭代】 【层级遍历 - 递归】            |
 | 965  |      [单值二叉树<br>Univalued Binary Tree](doc/965.md)       |                    【Tranversal of Tree】                    |
 | 967  | [连续差相同的数字<br>Numbers With Same Consecutive Differences](doc/967.md) |                           【递归】                           |
 | 968  |       [监控二叉树<br>Binary Tree Cameras](doc/968.md)        |                     【DFS】 【动态规划】                     |
