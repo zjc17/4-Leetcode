@@ -47,6 +47,6 @@
 | 970  |          [强整数<br>Powerful Integers](doc/970.md)           |                                           |
 | 971  | [翻转二叉树以匹配先序遍历<br>Flip Binary Tree To Match Preorder Traversal](doc/971.md) |               【先序遍历】                |
 | 973  | [最接近原点的K个点<br>K Closest Points to Origin](doc/973.md) |               【Min-Heap】                |
-|      |                       [<br>](doc/.md)                        |                                           |
+| 978  |  [最长湍流子数组<br>Longest Turbulent Subarray](doc/978.md)  |                                           |
 |      |                       [<br>](doc/.md)                        |                                           |
 
