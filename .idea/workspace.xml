@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户">
-      <change afterPath="$PROJECT_DIR$/src/Solution983.java" afterDir="false" />
+    <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution983.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution983.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,12 +25,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution983.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="168">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#379#404#1" />
-                <element signature="method#getMinOfThree#0;class#Solution983#0" />
               </folding>
             </state>
           </provider>
@@ -72,8 +71,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="456" />
-    <option name="y" value="198" />
+    <option name="x" value="376" />
+    <option name="y" value="80" />
     <option name="width" value="1400" />
     <option name="height" value="957" />
   </component>
@@ -108,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549030175129" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549030376889" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -157,7 +156,7 @@
       <workItem from="1547808442033" duration="3822000" />
       <workItem from="1547951412473" duration="3266000" />
       <workItem from="1548904706155" duration="2906000" />
-      <workItem from="1549028172767" duration="1943000" />
+      <workItem from="1549028172767" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="TLE">
       <created>1546861760794</created>
@@ -201,18 +200,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547299269665</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="执行用时: 10 ms, 在Minimum Cost For Tickets的Java提交中击败了50.00% 的用户">
+      <created>1549030203885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549030203885</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40786000" />
+    <option name="totallyTimeSpent" value="41030000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="456" y="198" width="1400" height="957" extended-state="0" />
+    <frame x="376" y="80" width="1400" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48238152" visible="true" weight="0.13507463" />
-      <window_info id="Structure" order="1" sideWeight="0.5176185" side_tool="true" visible="true" weight="0.13507463" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48189417" visible="true" weight="0.13507463" />
+      <window_info id="Structure" order="1" sideWeight="0.51810586" side_tool="true" visible="true" weight="0.13507463" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -227,7 +233,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.25030378" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.12758201" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -253,7 +259,8 @@
     <MESSAGE value="执行用时: 11 ms, 在Pancake Sorting的Java提交中击败了97.87% 的用户" />
     <MESSAGE value="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户" />
     <MESSAGE value="执行用时: 7 ms, 在Friend Circles的Java提交中击败了95.87% 的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时: 7 ms, 在Friend Circles的Java提交中击败了95.87% 的用户" />
+    <MESSAGE value="执行用时: 10 ms, 在Minimum Cost For Tickets的Java提交中击败了50.00% 的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时: 10 ms, 在Minimum Cost For Tickets的Java提交中击败了50.00% 的用户" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solution_803.java">
@@ -430,12 +437,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution983.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="168">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#379#404#1" />
-            <element signature="method#getMinOfThree#0;class#Solution983#0" />
           </folding>
         </state>
       </provider>

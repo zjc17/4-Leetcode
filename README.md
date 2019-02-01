@@ -51,5 +51,6 @@
 | 971  | [翻转二叉树以匹配先序遍历<br>Flip Binary Tree To Match Preorder Traversal](doc/971.md) |               【先序遍历】                |
 | 973  | [最接近原点的K个点<br>K Closest Points to Origin](doc/973.md) |               【Min-Heap】                |
 | 978  |  [最长湍流子数组<br>Longest Turbulent Subarray](doc/978.md)  |                                           |
+| 983  |      [最低票价<br>Minimum Cost For Tickets](doc/983.md)      |               【动态规划】                |
 |      |                       [<br>](doc/.md)                        |                                           |
 
