@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51b10c71-0208-49a8-8bfa-9c93b37ab44e" name="Default Changelist" comment="执行用时: 14 ms, 在Friend Circles的Java提交中击败了37.46% 的用户">
-      <change afterPath="$PROJECT_DIR$/src/Solution108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution983.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,23 +21,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution922.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution108.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution983.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="12" selection-start-line="12" selection-end-line="31" selection-end-column="3" />
+            <state relative-caret-position="399">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding>
-                <element signature="class#TreeNode#0;class#Solution108#0" />
-                <element signature="e#155#156#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#379#404#1" />
+                <element signature="method#getMinOfThree#0;class#Solution983#0" />
               </folding>
             </state>
           </provider>
@@ -75,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/Solution53.java" />
         <option value="$PROJECT_DIR$/src/Solution922.java" />
         <option value="$PROJECT_DIR$/src/Solution108.java" />
+        <option value="$PROJECT_DIR$/src/Solution983.java" />
       </list>
     </option>
   </component>
@@ -108,14 +101,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548907704923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549030175129" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -163,7 +156,8 @@
       <workItem from="1547791365075" duration="5468000" />
       <workItem from="1547808442033" duration="3822000" />
       <workItem from="1547951412473" duration="3266000" />
-      <workItem from="1548904706155" duration="2377000" />
+      <workItem from="1548904706155" duration="2906000" />
+      <workItem from="1549028172767" duration="1943000" />
     </task>
     <task id="LOCAL-00001" summary="TLE">
       <created>1546861760794</created>
@@ -211,14 +205,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38314000" />
+    <option name="totallyTimeSpent" value="40786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="456" y="198" width="1400" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4835966" visible="true" weight="0.13358209" />
-      <window_info id="Structure" order="1" sideWeight="0.5164034" side_tool="true" visible="true" weight="0.13358209" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48238152" visible="true" weight="0.13507463" />
+      <window_info id="Structure" order="1" sideWeight="0.5176185" side_tool="true" visible="true" weight="0.13507463" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -415,6 +409,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="class#TreeNode#0;class#Solution108#0" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution922.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -422,13 +428,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution108.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution983.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="12" selection-start-line="12" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="399">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding>
-            <element signature="class#TreeNode#0;class#Solution108#0" />
-            <element signature="e#155#156#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#404#1" />
+            <element signature="method#getMinOfThree#0;class#Solution983#0" />
           </folding>
         </state>
       </provider>
