@@ -46,7 +46,7 @@
 | 965  |      [单值二叉树<br>Univalued Binary Tree](doc/965.md)       |          【Tranversal of Tree】           |
 | 967  | [连续差相同的数字<br>Numbers With Same Consecutive Differences](doc/967.md) |                 【递归】                  |
 | 968  |       [监控二叉树<br>Binary Tree Cameras](doc/968.md)        |           【DFS】 【动态规划】            |
-| 969  |          [煎饼排序<br/>Pancake Sorting](doc/969.md)          | 【双指针(BF)】 **【双向链表（未完成）】** |
+| 969  |          [煎饼排序<br/>Pancake Sorting](doc/969.md)          | 【双指针(BF)】 |
 | 970  |          [强整数<br>Powerful Integers](doc/970.md)           |                                           |
 | 971  | [翻转二叉树以匹配先序遍历<br>Flip Binary Tree To Match Preorder Traversal](doc/971.md) |               【先序遍历】                |
 | 973  | [最接近原点的K个点<br>K Closest Points to Origin](doc/973.md) |               【Min-Heap】                |
