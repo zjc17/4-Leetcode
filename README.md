@@ -67,5 +67,6 @@
 | 1051 | [高度检查器<br>Height Checker](<https://www.zhangjc.site/archives/98.html>) | 【汉明距离】 |
 | 1052 | [爱生气的书店老板<br>Grumpy Bookstore Owner](<https://www.zhangjc.site/archives/103.html>) | 【动态规划】 |
 |  |                       [<br>](doc/.md)                        |              |
+| 1054 | [距离相等的条形码<br>Distant Barcodes](<https://www.zhangjc.site/archives/105.html>) |              |
 |  |                       [<br>](doc/.md)                        |              |
 
