@@ -8,16 +8,10 @@
 
 ### Example:
 
+### Analysis
 
+Solution 【考点标签】 ( ms)
 
-## Solutions
-### Solution 【考点标签】 ( ms)
-```java
-
-```
-#### 复杂度分析
-
-### Solution 【考点标签】 ( ms)
 ```java
 
 ```
@@ -25,5 +19,7 @@
 
 
 
-### Notes
+
+
+
 
