@@ -30,7 +30,7 @@ public class Solution1001 {
   }
 
   private boolean closeLamp(int[] lamp, int[] query) {
-
+    return false;
   }
 
   private boolean query(int[] query, Set<Integer> sum,

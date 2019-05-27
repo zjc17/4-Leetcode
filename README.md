@@ -1,6 +1,8 @@
 # 4-Leetcode
 
-\>\>\>[Link](https://www.zhangjc.site/category/code/)<<<
+## [更新链接](https://www.zhangjc.site/category/code/)
+
+> 进入后直接搜索题号即可
 
 ## 001  - 100
 
@@ -63,4 +65,7 @@
 | 题号 |                             题目                             |     考点     |
 | :--: | :----------------------------------------------------------: | :----------: |
 | 1051 | [高度检查器<br>Height Checker](<https://www.zhangjc.site/archives/98.html>) | 【汉明距离】 |
-|      |                       [<br>](doc/.md)                        |              |
+| 1052 | [爱生气的书店老板<br>Grumpy Bookstore Owner](<https://www.zhangjc.site/archives/103.html>) | 【动态规划】 |
+|  |                       [<br>](doc/.md)                        |              |
+|  |                       [<br>](doc/.md)                        |              |
+
