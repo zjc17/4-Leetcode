@@ -64,6 +64,10 @@
 
 | 题号 |                             题目                             |     考点     |
 | :--: | :----------------------------------------------------------: | :----------: |
+| 1046 | [最后一块石头的重量<br/>Last Stone Weight](<https://www.zhangjc.site/archives/284.html>) | 【堆】<br/>【优先队列】 |
+|  | [<br/>](doc/.md) |  |
+|  | [<br/>](doc/.md) |  |
+|  | [<br/>](doc/.md) |  |
 | 1051 | [高度检查器<br>Height Checker](<https://www.zhangjc.site/archives/98.html>) | 【汉明距离】 |
 | 1052 | [爱生气的书店老板<br>Grumpy Bookstore Owner](<https://www.zhangjc.site/archives/103.html>) | 【动态规划】 |
 |  |                       [<br>](doc/.md)                        |              |
