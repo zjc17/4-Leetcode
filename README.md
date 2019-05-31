@@ -65,7 +65,7 @@
 | 题号 |                             题目                             |     考点     |
 | :--: | :----------------------------------------------------------: | :----------: |
 | 1041 | [困于环中的机器人<br/>Robot Bounded In Circle](https://www.zhangjc.site/archives/332.html) | 【数组】 |
-|  | [<br/>]() |  |
+| 1042 | [不邻接植花<br/>Flower Planting With No Adjacent](https://www.zhangjc.site/archives/355.html) | 【图】【Map】【数组】 |
 |  | [<br/>]() |  |
 |  | [<br/>]() |  |
 | 1046 | [最后一块石头的重量<br/>Last Stone Weight](https://www.zhangjc.site/archives/284.html) | 【堆】<br/>【优先队列】 |
