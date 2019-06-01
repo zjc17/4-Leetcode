@@ -78,3 +78,8 @@
 | 1054 | [距离相等的条形码<br>Distant Barcodes](https://www.zhangjc.site/archives/105.html) |              |
 |  |                       [<br>](doc/.md)                        |              |
 
+## 5000-5100
+| 题号 |                             题目                             |     考点     |
+| :--: | :----------------------------------------------------------: | :----------: |
+| 5013 | [字符串的索引对<br/>Index Pairs of a String](https://www.zhangjc.site/archives/380.html) | 【字符串匹配】 |
+
