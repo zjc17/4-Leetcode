@@ -81,5 +81,6 @@
 ## 5000-5100
 | 题号 |                             题目                             |     考点     |
 | :--: | :----------------------------------------------------------: | :----------: |
+| 5008 | [不动点<br/>Fixed Point](https://www.zhangjc.site/archives/382.html) | 【数组】 |
 | 5013 | [字符串的索引对<br/>Index Pairs of a String](https://www.zhangjc.site/archives/380.html) | 【字符串匹配】 |
 
