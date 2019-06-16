@@ -76,6 +76,9 @@
 | 1052 | [爱生气的书店老板<br>Grumpy Bookstore Owner](https://www.zhangjc.site/archives/103.html) | 【动态规划】 |
 | 1053 | [交换一次的先前排列<br>Previous Permutation With One Swap](https://www.zhangjc.site/archives/324.html) | 【字典序】 |
 | 1054 | [距离相等的条形码<br>Distant Barcodes](https://www.zhangjc.site/archives/105.html) |              |
+|      |                       [<br>](doc/.md)                        |              |
+|  |                       [<br>](doc/.md)                        |              |
+| 1089 | [复写零<br>Duplicate Zeros](https://www.zhangjc.site/archives/541.html) | 【双指针】 |
 |  |                       [<br>](doc/.md)                        |              |
 
 ## 5000-5100
