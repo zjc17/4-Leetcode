@@ -79,7 +79,8 @@
 |      |                       [<br>](doc/.md)                        |              |
 |  |                       [<br>](doc/.md)                        |              |
 | 1089 | [复写零<br>Duplicate Zeros](https://www.zhangjc.site/archives/541.html) | 【双指针】 |
-|  |                       [<br>](doc/.md)                        |              |
+|  |  |  |
+| 1091 | [二进制矩阵中的最短路径<br>Shortest Path in Binary Matrix](https://www.zhangjc.site/archives/543.html) | 【BFS】 |
 
 ## 5000-5100
 | 题号 |                             题目                             |     考点     |
